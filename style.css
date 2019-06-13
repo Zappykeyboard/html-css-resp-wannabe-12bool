@@ -53,6 +53,7 @@
 @media all and (min-width: 769px) and (max-width: 991px) {
   .row{
     width: 90%;
+    margin: auto;
   }
 
   [class*="col-md-"]{
@@ -69,6 +70,7 @@
 @media all and (max-width: 768px){
   .row{
     width: 90%;
+    margin: auto;
   }
   
   [class*="col-xs-"]{
