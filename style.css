@@ -58,6 +58,7 @@
 
   [class*="col-md-"]{
     margin: 50px auto;
+    padding: 0 10px;
   }
 
   img {
